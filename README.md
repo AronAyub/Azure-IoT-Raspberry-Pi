@@ -1,4 +1,4 @@
-#  Build your own IoT Projects using Azure IoT and Raspberry Pi
+#  Build your own IoT Projects using Azure and Raspberry Pi
 
 - General arctecture 
 
