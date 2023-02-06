@@ -1,4 +1,5 @@
 #  Build your own IoT Projects using Azure and Raspberry Pi
+## Stream Live data on Azure using Raspberry Pi
 
 - General arctecture 
 
@@ -7,6 +8,20 @@
 - The circuit connection
 
 ![pi (1)](https://user-images.githubusercontent.com/55284959/216787973-1271c9b5-bfb7-46c9-a9bc-3ec98937f22e.jpg)
+
+### Preliquisites 
+1. Azure account
+2. Raspberry pi
+3. DHT Sensor 
+4. Wifi Connectivity 
+
+### Azure configurations
+- To create a resource on Azure, you need Azure account. Click the link to create a free azure account [Azure Account](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB:G:s&OCID=AIDcmm4z26duq7_SEM_Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB:G:s&gclid=Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB)
+- if you are a student you can use your student account in accessing $100 worth [Azure Student Account](https://azure.microsoft.com/en-us/free/students/)
+
+- Navigate to azure market place to create your resource.
+    [**Azure Market place**](https://portal.azure.com/)
+
 
 
 ```
