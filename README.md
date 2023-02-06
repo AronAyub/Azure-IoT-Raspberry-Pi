@@ -22,6 +22,17 @@
 - Navigate to azure market place to create your resource.
     [**Azure Market place**](https://portal.azure.com/)
 
+### Creating IoT HUB
+a. Navigate to Azure Market place and search for 'IoT Hub'
+<img width="839" alt="1hub" src="https://user-images.githubusercontent.com/55284959/216958681-325e04a2-79dd-4807-8e94-659e8d2639ae.png">
+
+b. Click Create 
+<img width="964" alt="2bub" src="https://user-images.githubusercontent.com/55284959/216958691-1a30791f-b659-4a69-8c12-7b60dcec8ebc.png">
+
+c. Create a new [Resource Group](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resources-portal) and give approprite name followed by a name to the IoT Hub.
+
+d. Choose Free Tier, can keep everything else default for starters.  <img width="830" alt="5hub" src="https://user-images.githubusercontent.com/55284959/216958711-7c08c0ab-8b16-413a-be3f-334a881708f1.png">
+
 
 
 ```
