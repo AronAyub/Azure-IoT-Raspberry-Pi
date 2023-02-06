@@ -17,7 +17,7 @@
 
 ### Azure configurations
 - To create a resource on Azure, you need Azure account. Click the link to create a free azure account [Azure Account](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB:G:s&OCID=AIDcmm4z26duq7_SEM_Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB:G:s&gclid=Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB)
-- if you are a student you can use your student account in accessing $100 worth [Azure Student Account](https://azure.microsoft.com/en-us/free/students/)
+- If you are a student you can use your student account in accessing $100 worth [Azure Student Account](https://azure.microsoft.com/en-us/free/students/)
 
 - Navigate to azure market place to create your resource.
     [**Azure Market place**](https://portal.azure.com/)
