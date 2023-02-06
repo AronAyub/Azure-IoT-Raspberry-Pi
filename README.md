@@ -51,7 +51,7 @@ e. Navigate to the azure dashboard and click on the IoT Hub you have created.
 
 <img width="862" alt="6" src="https://user-images.githubusercontent.com/55284959/216962156-52195835-d7d4-46da-b12e-f45f4c11a2c1.png">
 
-f. On the left hand side scroll to Device Management and click *Device*
+f. On the left side scroll to Device Management and click *Device*
 
 <img width="969" alt="7b" src="https://user-images.githubusercontent.com/55284959/216962421-bc55fe75-c28e-4a83-98f3-5031a24461a3.png">
 
