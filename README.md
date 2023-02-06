@@ -22,7 +22,11 @@
 - Navigate to azure market place to create your resource.
     [**Azure Market place**](https://portal.azure.com/)
 
-### Creating IoT HUB
+### Creating Resources in Azure Cloud
+- We need IoT hub, Storage resource and stream analytics.
+
+## Creating IoT Hub and IoT Device.
+
 a. Navigate to Azure Market place and search for 'IoT Hub'
 
 <img width="839" alt="1hub" src="https://user-images.githubusercontent.com/55284959/216958681-325e04a2-79dd-4807-8e94-659e8d2639ae.png">
@@ -38,6 +42,31 @@ c. Create a new [Resource Group](https://learn.microsoft.com/en-us/azure/azure-r
 d. Choose Free Tier, can keep everything else default for starters.
 
 <img width="830" alt="5hub" src="https://user-images.githubusercontent.com/55284959/216958711-7c08c0ab-8b16-413a-be3f-334a881708f1.png">
+
+**Cogratulations you have successfully created azure IoT resource Group and Azure IoT Hub**
+
+### Creating Device in IoT Hub
+
+e. Navigate to the azure dashboard and click on the IoT Hub you have created.
+
+<img width="862" alt="6" src="https://user-images.githubusercontent.com/55284959/216962156-52195835-d7d4-46da-b12e-f45f4c11a2c1.png">
+
+f. On the left hand side scroll to Device Management and click *Device*
+
+<img width="969" alt="7b" src="https://user-images.githubusercontent.com/55284959/216962421-bc55fe75-c28e-4a83-98f3-5031a24461a3.png">
+
+g. Click Create and give an appropriate name, then click save.
+
+<img width="787" alt="8a" src="https://user-images.githubusercontent.com/55284959/216962912-e287db2c-1da9-4d38-9084-956b6340e150.png">
+
+### Connection Strings 
+
+- To establish communication betwwen your Raspberry Pi and Azure cloud, we shall use MQTT protocol, a connection string which contains the HostHame - the hub name, Device Id and Shared AccessKey is used.
+Copy the primary connection string.
+
+<img width="883" alt="9a" src="https://user-images.githubusercontent.com/55284959/216963597-fb2a40ed-8bed-4366-98b2-76697e928cbb.png">
+
+
 
 
 
