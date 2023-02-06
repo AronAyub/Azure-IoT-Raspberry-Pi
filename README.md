@@ -43,7 +43,7 @@ d. Choose Free Tier, can keep everything else default for starters.
 
 <img width="830" alt="5hub" src="https://user-images.githubusercontent.com/55284959/216958711-7c08c0ab-8b16-413a-be3f-334a881708f1.png">
 
-**Cogratulations you have successfully created azure IoT resource Group and Azure IoT Hub**
+**Cogratulations you have successfully created azure IoT resource Group and Azure IoT Hub** 	:grin:
 
 ### Creating Device in IoT Hub
 
