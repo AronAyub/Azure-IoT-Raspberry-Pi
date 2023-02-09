@@ -70,13 +70,21 @@ Copy the primary connection string.
 - Connection string is a properties of three, *HubName*, *Device Id* and *Access Key*
 
 ## Creating Stream Analytics
-- Navigate to Azure home market place > Search for Stream Analytics Job.
+h. Navigate to Azure home market place > Search for Stream Analytics Job.
 
 <img width="956" alt="st1" src="https://user-images.githubusercontent.com/55284959/217913619-ad77f18c-04d5-481a-a076-9da3a3b9da5a.png">
  
-- Fill in the parts below and leave others default and click create.
+i. Fill in the parts below and leave others default and click create.
 <img width="955" alt="st2" src="https://user-images.githubusercontent.com/55284959/217913637-6468aaf6-1435-4f7e-b579-6672992b1814.png">
 
+## Creating Storage Resource.
+j. Navigate to Azure market place and search Storage account and click the one circled below.
+
+<img width="863" alt="sto1" src="https://user-images.githubusercontent.com/55284959/217915339-6844f86a-9662-4eca-9805-9a6dac10342a.png">
+
+k. Fill in as shown below and click create, you can change the location depending on where you are located.
+
+<img width="922" alt="sto2" src="https://user-images.githubusercontent.com/55284959/217915914-51bbacd2-a67c-4ed1-b5f2-f4c95efbe60b.png">
 
 
 
