@@ -69,11 +69,23 @@ Copy the primary connection string.
 
 - Connection string is a properties of three, *HubName*, *Device Id* and *Access Key*
 
+## Creating Stream Analytics
+- Navigate to Azure home market place > Search for Stream Analytics Job.
+
+<img width="956" alt="st1" src="https://user-images.githubusercontent.com/55284959/217913619-ad77f18c-04d5-481a-a076-9da3a3b9da5a.png">
+ 
+- Fill in the parts below and leave others default and click create.
+<img width="955" alt="st2" src="https://user-images.githubusercontent.com/55284959/217913637-6468aaf6-1435-4f7e-b579-6672992b1814.png">
+
+
+
+
 ## Raspberry Pi Configurations. 
 
 - In this project, I am using DHT22 as my sensor of choice - this can be replaced with whatever kind of parameter value you want to monitor or measure.
 
 - The circuit Diagram is as shown Below:
+
 
 
 
