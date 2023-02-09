@@ -67,14 +67,13 @@ Copy the primary connection string.
 <img width="883" alt="9a" src="https://user-images.githubusercontent.com/55284959/216963597-fb2a40ed-8bed-4366-98b2-76697e928cbb.png">
 
 
+- Connection string is a properties of three, *HubName*, *Device Id* and *Access Key*
+
 ## Raspberry Pi Configurations. 
 
 - In this project, I am using DHT22 as my sensor of choice - this can be replaced with whatever kind of parameter value you want to monitor or measure.
 
 - The circuit Diagram is as shown Below:
-
-
-
 
 
 
