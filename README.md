@@ -13,7 +13,7 @@
 1. Azure account
 2. Raspberry pi
 3. DHT Sensor 
-4. Wifi Connectivity 
+4. Wifi Connectivity  
 
 ### Azure configurations
 - To create a resource on Azure, you need Azure account. Click the link to create a free azure account [Azure Account](https://azure.microsoft.com/en-us/free/search/?&ef_id=Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB:G:s&OCID=AIDcmm4z26duq7_SEM_Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB:G:s&gclid=Cj0KCQiA54KfBhCKARIsAJzSrdomboX2ZVJmlljOqdqZOZL_F9eaGjhX90w4TM1MpjmEGTov3DOJFAIaAlDgEALw_wcB)
@@ -152,4 +152,6 @@ while True:
         print ( "Press Ctrl-C to exit" )  
         iothub_client_telemetry_sample_run()
 
-```        
+```    
+![l3ybmzod](https://user-images.githubusercontent.com/55284959/218150577-1d1d33ad-cedb-4f68-9352-a49a1aa4f628.jpeg)
+
