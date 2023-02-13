@@ -90,6 +90,10 @@ k. Fill in as shown below and click create, you can change the location dependin
 
 l. See the picture bellow and the video for this part.
 
+<img width="959" alt="st5" src="https://user-images.githubusercontent.com/55284959/218564273-8a3912dc-8962-4769-a700-4ad4842f8f8e.png">
+
+
+[Check-the-video-and-complete-the-project](https://www.youtube.com/watch?v=RzXs5oEY_lc&t=114s)
 
 
 
