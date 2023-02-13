@@ -92,7 +92,7 @@ l. See the picture bellow and the video for this part.
 
 <img width="959" alt="st5" src="https://user-images.githubusercontent.com/55284959/218564273-8a3912dc-8962-4769-a700-4ad4842f8f8e.png">
 
-[![AZUREPIl](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)](https://youtu.be/RzXs5oEY_lc "Hey")
+[![AZUREPIl](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)](https://youtu.be/RzXs5oEY_lc "AZURE IoT and Rasbperry Pi")
 
  Configurations. 
 
