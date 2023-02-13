@@ -95,17 +95,7 @@ l. See the picture bellow and the video for this part.
 
 - [CHECK-THE-VIDEO-AND-COMPLETE-THE-PROJECT](https://www.youtube.com/watch?v=RzXs5oEY_lc&t=114s)
 
-[![AZURE IoT](http://img.youtube.com/vi/https://youtu.be/RzXs5oEY_lc/0.jpg)](https://youtu.be/RzXs5oEY_lc "Azure IoT Hub, Stream Analytics, Storage Containers and Raspberry Pi")
-
-
-[AZUREPIl](https://user-images.githubusercontent.com/55284959/218569684-ebff694f-5108-4569-a09f-ec3d33718da7.png)
-
-
-
-
-[Full Tutorial](https://www.youtube.com/watch?v=RzXs5oEY_lc&t=114s)
-
-
+[![AZURE IoT](http://img.youtube.com/vi/https://youtu.be/RzXs5oEY_lc/https://user-images.githubusercontent.com/55284959/218569684-ebff694f-5108-4569-a09f-ec3d33718da7.png)](https://youtu.be/RzXs5oEY_lc "Azure IoT Hub, Stream Analytics, Storage Containers and Raspberry Pi")
 
 ## Raspberry Pi Configurations. 
 
