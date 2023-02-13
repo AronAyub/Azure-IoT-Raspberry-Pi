@@ -95,8 +95,12 @@ l. See the picture bellow and the video for this part.
 
 - [CHECK-THE-VIDEO-AND-COMPLETE-THE-PROJECT](https://www.youtube.com/watch?v=RzXs5oEY_lc&t=114s)
 
-[![AZURE IoT](http://img.youtube.com/vi/c/https://user-images.githubusercontent.com/55284959 218569684-ebff694f-5108-4569-a09f-ec3d33718da7.png)](https://youtu.be/RzXs5oEY_lc "Azure IoT Hub, Stream Analytics, Storage Containers and Raspberry Pi")
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzXs5oEY_lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+[![Everything Is AWESOME](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
   <iframe width="560" height="315"
