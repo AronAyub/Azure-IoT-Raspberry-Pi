@@ -95,7 +95,10 @@ l. See the picture bellow and the video for this part.
 
 [![Azure IoT and Raspbery Pi](https://youtu.be/RzXs5oEY_lc/https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)](https://youtu.be/RzXs5oEY_lc "Video to Complete the Project!")
 
-
+![image alt text](https://example.com/https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)
+wrapped in a link
+[link text](https://youtu.be/RzXs5oEY_lc "link title")
+ 
  Configurations. 
 
 - In this project, I am using DHT22 as my sensor of choice - this can be replaced with whatever kind of parameter value you want to monitor or measure.
