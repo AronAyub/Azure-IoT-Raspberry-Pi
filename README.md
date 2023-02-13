@@ -92,7 +92,7 @@ l. See the picture bellow and the video for this part.
 
 <img width="959" alt="st5" src="https://user-images.githubusercontent.com/55284959/218564273-8a3912dc-8962-4769-a700-4ad4842f8f8e.png">
 
-[![Everything Is AWESOME](https://example.com/https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)](https://youtu.be/RzXs5oEY_lc "Everything Is AWESOME")
+[![Azure IoT And Raspberry Pi Full Video](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf/0.png)](https://youtu.be/RzXs5oEY_lc "Everything Is AWESOME")
 
 
 
