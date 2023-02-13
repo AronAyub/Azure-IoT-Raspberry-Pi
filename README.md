@@ -99,7 +99,7 @@ l. See the picture bellow and the video for this part.
 [![Everything Is AWESOME](https://img.youtube.com/vi/https://youtu.be/RzXs5oEY_lc/https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)](https://www.youtube.com/watch?v=https://youtu.be/RzXs5oEY_lc "Everything Is AWESOME")
 
 
-![AZUREPIl](https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)
+
 
 https://youtu.be/RzXs5oEY_lc
 
