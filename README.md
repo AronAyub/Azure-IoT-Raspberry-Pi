@@ -93,19 +93,15 @@ l. See the picture bellow and the video for this part.
 <img width="959" alt="st5" src="https://user-images.githubusercontent.com/55284959/218564273-8a3912dc-8962-4769-a700-4ad4842f8f8e.png">
 
 
-- [CHECK-THE-VIDEO-AND-COMPLETE-THE-PROJECT](https://www.youtube.com/watch?v=RzXs5oEY_lc&t=114s)
+
+[![Little red riding hood](https://youtu.be/RzXs5oEY_lc/user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)](https://youtu.be/RzXs5oEY_lc "Video to Complete the Project!")
 
 
-[![Everything Is AWESOME](//img.youtube.com/vi/https://youtu.be/RzXs5oEY_lc/https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)](//www.youtube.com/watch?v=https://youtu.be/RzXs5oEY_lc "Everything Is AWESOME")
+
+https://youtu.be/RzXs5oEY_lc
 
 
-[![Everything Is AWESOME](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME"
-
-
-https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png
-
-
-## Raspberry Pi Configurations. 
+ Configurations. 
 
 - In this project, I am using DHT22 as my sensor of choice - this can be replaced with whatever kind of parameter value you want to monitor or measure.
 
