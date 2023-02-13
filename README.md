@@ -86,6 +86,11 @@ k. Fill in as shown below and click create, you can change the location dependin
 
 <img width="922" alt="sto2" src="https://user-images.githubusercontent.com/55284959/217915914-51bbacd2-a67c-4ed1-b5f2-f4c95efbe60b.png">
 
+### Linking IoT Hub to Storage account through Stream analytics
+
+l. See the picture bellow and the video for this part.
+
+
 
 
 ## Raspberry Pi Configurations. 
