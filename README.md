@@ -96,7 +96,6 @@ l. See the picture bellow and the video for this part.
 - [CHECK-THE-VIDEO-AND-COMPLETE-THE-PROJECT](https://www.youtube.com/watch?v=RzXs5oEY_lc&t=114s)
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RzXs5oEY_lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
