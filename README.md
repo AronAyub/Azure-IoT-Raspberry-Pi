@@ -94,7 +94,7 @@ l. See the picture bellow and the video for this part.
 
 
 
-[![AZUAzure-IoT Raspberry Pi full video](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)](https://youtu.be/RzXs5oEY_lc?t=20s "AZURE IoT and Rasbperry Pi")
+[![AZUAzure-IoT Raspberry Pi full video](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)](https://youtu.be/RzXs5oEY_lc?t=35s "AZURE IoT and Rasbperry Pi")
 
  Configurations. 
 
