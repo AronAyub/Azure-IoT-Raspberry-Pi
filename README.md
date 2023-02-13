@@ -94,7 +94,7 @@ l. See the picture bellow and the video for this part.
 
 [![Azure IoT And Raspberry Pi Full Video](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf/0.png)](https://youtu.be/RzXs5oEY_lc "Everything Is AWESOME")
 
-
+![AZUREPIl](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)
 
  Configurations. 
 
