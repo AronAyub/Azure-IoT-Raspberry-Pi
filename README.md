@@ -92,11 +92,7 @@ l. See the picture bellow and the video for this part.
 
 <img width="959" alt="st5" src="https://user-images.githubusercontent.com/55284959/218564273-8a3912dc-8962-4769-a700-4ad4842f8f8e.png">
 
-
-[![image alt text](https://example.com/https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)[Video](https://youtu.be/RzXs5oEY_lc)]
- 
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![Everything Is AWESOME](https://example.com/https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)](https://youtu.be/RzXs5oEY_lc "Everything Is AWESOME")
 
 
 
