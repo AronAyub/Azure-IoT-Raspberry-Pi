@@ -96,10 +96,12 @@ l. See the picture bellow and the video for this part.
 - [CHECK-THE-VIDEO-AND-COMPLETE-THE-PROJECT](https://www.youtube.com/watch?v=RzXs5oEY_lc&t=114s)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RzXs5oEY_lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://img.youtube.com/vi/https://youtu.be/RzXs5oEY_lc/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/RzXs5oEY_lc "Everything Is AWESOME")
 
 
-[![Everything Is AWESOME](//img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](//www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+![AZUREPIl](https://user-images.githubusercontent.com/55284959/218571831-ac8cb601-fa19-400b-b9c7-d7fe523bbe8b.png)
+
+https://youtu.be/RzXs5oEY_lc
 
 
   <iframe width="560" height="315"
