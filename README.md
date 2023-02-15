@@ -106,40 +106,45 @@ l. See the picture bellow and the video for this part.
 
 
 
+-Importing relevant dependent libraries 
 
 ```
-# Aron Ayub 4th Feb 2023
-#**Preliminaries**
-#Azure ACCOUNT
-#RASPBERRY PI - Optional 
-#DHT SENOSR  - optional
-#Import relevant library files 
-
-#Learning objectives
-#understand basics on Azure IoT
-#1. Be able to create an iot hub
-#2. Be able to create stream analytics
-#3. Be able to create a storage container in Azure
-#5. Be able to program Raspberry pi and send data to Azure.
-
-#Code 
-
 import random  
 import Adafruit_DHT
 import time
 from azure.iot.device import IoTHubDeviceClient, Message  
 
+```
+
+- Defining Our GPIO pin in Raspberry Pi.
+
+```
 #We are using pin number 4 and my DHT is 22
 sensor = Adafruit_DHT.DHT22
 pin = 4 #this is pin number 8 (SOC)
+```
 
+- Defining your connection String, which is copied in Device from your IoT Hub
+
+```
 #define the connection String, go to IoT Hub -Devices - Primary connection String
-CONNECTION_STRING = "HostName=hub10001.azure-devices.net;DeviceId=reatimepi002;SharedAccessKey=04ZK+1BhBx8h3injTlM3yq8wyRi+wzRDHZaNdnXFhc4="  
+CONNECTION_STRING = "HostName=hub name.azure-devices.net;DeviceId=your device id;SharedAccessKey=copied key"  
+```
+- This array stores temperature and humidity data
+```
 #This is the array that will be used to store the data
 MSG_SND = '{{"temperature": {temperature},"humidity": {humidity}}}'
+```
+- This block of code reads temperature and humidity using Adafruit Library
 
+```
 while True:
     humidity, temperature = Adafruit_DHT.read_retry(sensor, pin) #data holding variables
+```
+- This function is inside While Loop and connect the pi to our hub and i am using try and except to capture any errors incase of keyboard interrupt.
+- the second While loop sends the data to the hub
+
+```
     #Function to connect Pi to IoT Hub using the connection string that is predefined up there
     def iothub_client_init():  
         client = IoTHubDeviceClient.create_from_connection_string(CONNECTION_STRING)  
@@ -165,7 +170,6 @@ while True:
 ```    
 
 - Test image
-
 
 ![l3ybmzod](https://user-images.githubusercontent.com/55284959/218150577-1d1d33ad-cedb-4f68-9352-a49a1aa4f628.jpeg)
 
