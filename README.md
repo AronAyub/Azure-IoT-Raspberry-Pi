@@ -169,7 +169,6 @@ while True:
 
 ```    
 
-- Test image
+**Incase of any issue, kindly refer the video**
 
-![l3ybmzod](https://user-images.githubusercontent.com/55284959/218150577-1d1d33ad-cedb-4f68-9352-a49a1aa4f628.jpeg)
-
+[![AZUAzure-IoT Raspberry Pi full video](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)](https://youtu.be/RzXs5oEY_lc?t=35s "AZURE IoT and Rasbperry Pi")
