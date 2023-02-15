@@ -1,6 +1,6 @@
 #  Build your own IoT Projects using Azure and Raspberry Pi
 
-[![AZUAzure-IoT Raspberry Pi full video](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)](https://youtu.be/RzXs5oEY_lc? "AZURE IoT and Rasbperry Pi")
+[![AZUAzure-IoT Raspberry Pi full video](https://user-images.githubusercontent.com/55284959/218580059-e18303b6-c8cd-4282-943a-a6c4842c3eaf.png)](https://youtu.be/RzXs5oEY_lc "AZURE IoT and Rasbperry Pi")
 
 ## Stream Live data on Azure using Raspberry Pi
 
