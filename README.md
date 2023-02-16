@@ -5,8 +5,7 @@
 ## Stream Live data on Azure using Raspberry Pi
 
 - General arctecture 
-
-![pi (1)](https://user-images.githubusercontent.com/55284959/216787973-1271c9b5-bfb7-46c9-a9bc-3ec98937f22e.jpg)
+![Raspberry_Pi_dht_bb](https://user-images.githubusercontent.com/55284959/219378943-4e0efb46-dc02-4127-b6bb-f29ccde5f434.png)
 
 <img width="534" alt="Screenshot 2023-02-04 150114" src="https://user-images.githubusercontent.com/55284959/216787977-f3572a9a-08eb-4f81-9bba-942c4f2a34ec.png">
 
